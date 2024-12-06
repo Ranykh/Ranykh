@@ -17,19 +17,19 @@ I am a Data Science and Engineering student at the Technion - Israel Institute o
 
 ## 📂 Projects
 Here are some highlighted projects that showcase my expertise:
-- **[MAB_Electronic-Commerce-Models](https://github.com/your-repo-link)**: Implements Multi-Armed Bandit simulation for E-commerce use cases.
-- **[Career Pathing Solution with AI](https://github.com/your-repo-link)**: An AI-based tool for career recommendations via Linkedin.
-- **[Dynamic Attention LSTM Predictive Model](https://github.com/your-repo-link)**: Research project improving prediction in human-bot interactions.
-- **[Big Data & NLP Projects](https://github.com/your-repo-link)**: A collection of various deep learning implementations.
-
-## 🌟 Achievements
-- **Research Presentation**: Biomedical Engineering research presented in Switzerland.
-- **Leadership**: Group Manager in LATET - Israeli Humanitarian Aid.
+- **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**: An AI-based tool for career recommendations via Linkedin.
+- **[Big Data & Deep Learning Projects](https://github.com/Ranykh/Deep-Learning-Projects)**: A collection of various deep learning implementations.
+- **[Dynamic Attention LSTM Predictive Model](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**: Research project in NLP improving prediction in human-bot interactions.
+- **[MAB_Electronic-Commerce-Models](https://github.com/Ranykh/MAB_Electronic-Commerce-Models)**: Implements Multi-Armed Bandit simulation for E-commerce use cases.
 
 ## 💼 Professional Experience
 - **PhenoAI (Data Science Intern)**: Developed predictive ML models for analyzing ECG data using AWS and Python-based big data processing. Collaborated with researchers to refine data insights.
 - **VISTA Lab (Research Assistant)**: Benchmarked algorithms and improved model accuracy for instance segmentation tasks.
 - **Teaching Assistant (Technion)**: Tutored Discrete Mathematics, improving academic outcomes for students.
+
+## 🌟 Achievements
+- **Research Presentation**: Biomedical Engineering research presented in Switzerland.
+- **Leadership**: Group Manager in LATET - Israeli Humanitarian Aid.
 
 ## 📬 Let's Connect!
 I'm always open to networking, collaborations, and exciting projects:
