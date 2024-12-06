@@ -9,11 +9,11 @@ I am a Data Science and Engineering student at the Technion - Israel Institute o
 - **Visualization Tools**: Tableau, MATLAB
 - **Specialized Areas**:
   - Machine Learning & Deep Learning
+  - Data Analysis
   - Natural Language Processing (NLP)
   - Real-Time Data Processing (e.g., Spark Streaming)
   - Big Data & Cloud Computing (e.g., AWS)
   - Algorithm Design & Optimization
-  - Data analysis
 
 ## 📂 Projects
 Here are some highlighted projects that showcase my expertise:
