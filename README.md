@@ -23,7 +23,6 @@ Here are some highlighted projects that showcase my expertise:
 - **[Big Data & NLP Projects](https://github.com/your-repo-link)**: A collection of various deep learning implementations.
 
 ## 🌟 Achievements
-- **Qualified for Alonim**: IDF elite data science program.
 - **Research Presentation**: Biomedical Engineering research presented in Switzerland.
 - **Leadership**: Group Manager in LATET - Israeli Humanitarian Aid.
 
@@ -31,13 +30,6 @@ Here are some highlighted projects that showcase my expertise:
 - **PhenoAI (Data Science Intern)**: Developed predictive ML models for analyzing ECG data using AWS and Python-based big data processing. Collaborated with researchers to refine data insights.
 - **VISTA Lab (Research Assistant)**: Benchmarked algorithms and improved model accuracy for instance segmentation tasks.
 - **Teaching Assistant (Technion)**: Tutored Discrete Mathematics, improving academic outcomes for students.
-
-## 🎓 Education
-- **BSc Data Science and Engineering (Technion)**: Relevant coursework includes:
-  - Data Structures and Algorithms (81)
-  - Machine Learning (85)
-  - Natural Language Processing (88)
-  - Optimization Methods in Machine Learning (90)
 
 ## 📬 Let's Connect!
 I'm always open to networking, collaborations, and exciting projects:
