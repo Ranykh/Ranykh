@@ -19,6 +19,7 @@ I am a Data Science and Engineering student at the Technion - Israel Institute o
 Here are some highlighted projects that showcase my expertise:
 - **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**: An AI-based tool for career recommendations via Linkedin.
 - **[Big Data & Deep Learning Projects](https://github.com/Ranykh/Deep-Learning-Projects)**: A collection of various deep learning implementations.
+- **[Graph Neural Network Project](https://github.com/Ranykh/GNN_Final_Project)**: Graph classification using advanced GNN architectures, achieving high performance and stability.
 - **[Dynamic Attention LSTM Predictive Model](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**: Research project in NLP improving prediction in human-bot interactions.
 - **[MAB_Electronic-Commerce-Models](https://github.com/Ranykh/MAB_Electronic-Commerce-Models)**: Implements Multi-Armed Bandit simulation for E-commerce use cases.
 
