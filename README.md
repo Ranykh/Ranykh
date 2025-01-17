@@ -20,12 +20,12 @@ Here are some highlighted projects that showcase my expertise:
 - **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**: An AI-based tool for career recommendations via Linkedin.
 - **[LinkedIn Data Engineering/Analysis](https://github.com/Ranykh/Linkedin-Data-Analysis)**: Exploratory and statistical analysis of LinkedIn user data to uncover trends in career progression, skill demands, and networking patterns.
 - **[Graph Attention Network for AF Detection](https://github.com/Ranykh/Graph-Attention-Network-for-AF-Detection)**:A Research Utilizes Graph Attention Networks to model inter-lead ECG dependencies and regional variations for robust atrial fibrillation detection.
-- Designing distributed databases and implementing the
-design using spark
 - **[Big Data & Deep Learning Projects](https://github.com/Ranykh/Deep-Learning-Projects)**: A collection of various deep learning implementations.
 - **[Graph Neural Network Project](https://github.com/Ranykh/GNN_Final_Project)**: Graph classification using advanced GNN architectures.
 - **[Dynamic Attention LSTM Predictive Model](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**: Research project in NLP improving prediction in human-bot interactions.
 - **[MAB_Electronic-Commerce-Models](https://github.com/Ranykh/MAB_Electronic-Commerce-Models)**: Implements Multi-Armed Bandit simulation for E-commerce use cases.
+- Designing distributed databases and implementing the
+design using spark
 
 ## 💼 Professional Experience
 - **PhenoAI (Data Science Intern)**: Developed predictive ML models for analyzing ECG data using AWS and Python-based big data processing. Collaborated with researchers to refine data insights.
