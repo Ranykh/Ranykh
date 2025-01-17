@@ -23,7 +23,8 @@ Here are some highlighted projects that showcase my expertise:
 - **[Big Data & Deep Learning Projects](https://github.com/Ranykh/Deep-Learning-Projects)**: A collection of various deep learning implementations.
 - **[Graph Neural Network Project](https://github.com/Ranykh/GNN_Final_Project)**: Graph classification using advanced GNN architectures.
 - **[Dynamic Attention LSTM Predictive Model](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**: Research project in NLP improving prediction in human-bot interactions.
-- **[NLP Entity Tagging with Word Embeddings](https://github.com/Ranykh/NLP-Entity-Tagging-with-Word-Embeddings)**: A machine learning pipeline for Named Entity Recognition (NER) using word embeddings and deep learning techniques.
+- **[AI Basics](https://github.com/Ranykh/AI-Basics/tree/main)**: A collection of various deep learning implementations.
+- **[NLP Entity Tagging with Word Embeddings](https://github.com/Ranykh/NLP-Entity-Tagging-with-Word-Embeddings)**: A project exploring AI-driven decision-making in a grid-based environment using optimal pathfinding and agent-based simulations.
 - **[MAB_Electronic-Commerce-Models](https://github.com/Ranykh/MAB_Electronic-Commerce-Models)**: Implements Multi-Armed Bandit simulation for E-commerce use cases.
 - Designing distributed databases and implementing the
 design using spark
