@@ -41,7 +41,7 @@ design using spark
 ## 📬 Let's Connect!
 I'm always open to networking, collaborations, and exciting projects:
 - **Email**: [ranykhirbawi@gmail.com](mailto:ranykhirbawi@gmail.com)
-- **LinkedIn**: [Rany K.](https://www.linkedin.com/in/rany-k-51a5011a9)
+- **LinkedIn**: [Rani H.](https://www.linkedin.com/in/rani-h-51a5011a9)
 - **GitHub**: [Ranykh](https://github.com/Ranykh)
 
 <!--
