@@ -1,7 +1,6 @@
 # Rani Herbawi
 👋 Welcome to my GitHub profile!
-
-I am a Data Science and Engineering student at the Technion - Israel Institute of Technology, with a strong foundation in machine learning, big data engineering, and software development. My passion lies in leveraging data to build impactful and scalable solutions, and I’m currently seeking opportunities to further develop innovative AI-driven technologies.
+I am a Data Science and Engineering student at the Technion - Israel Institute of Technology, with a strong foundation in software development, big data engineering, machine learning and data analysis. My passion lies in leveraging data to build impactful and scalable solutions, and I’m currently seeking opportunities to further develop innovative AI-driven technologies.
 
 ## 🛠️ Technologies & Skills
 - **Programming Languages**: Python, Java, SQL, C, C++, C#, R, MATLAB
