@@ -3,7 +3,6 @@
  Data Science & Engineering student at the Technion – Israel Institute of Technology  
 Passionate about solving real-world problems using software development, AI, machine learning, and big data systems  
 Skilled in Python, Databricks, AWS, and building scalable ML pipelines  
-Currently looking for opportunities to build and analyse impactful solutions
 
 ---
 
