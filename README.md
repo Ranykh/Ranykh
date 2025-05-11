@@ -1,9 +1,9 @@
 # Hi, I'm Rani Herbawi
 
-🎓 Data Science & Engineering student at the Technion – Israel Institute of Technology  
-💡 Passionate about solving real-world problems using software development, AI, machine learning, and big data systems  
-⚙️ Skilled in Python, Databricks, AWS, and building scalable ML pipelines  
-🚀 Currently looking for opportunities to build and analyse impactful solutions
+ Data Science & Engineering student at the Technion – Israel Institute of Technology  
+Passionate about solving real-world problems using software development, AI, machine learning, and big data systems  
+Skilled in Python, Databricks, AWS, and building scalable ML pipelines  
+Currently looking for opportunities to build and analyse impactful solutions
 
 ---
 
@@ -20,43 +20,43 @@
 
 ## 📂 Featured Projects
 
-- 🔮 **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**  
+-  **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**  
   AI-powered recommendation engine using Databricks & NLP for LinkedIn career clustering
 
-- 🧠 **[Graph Attention Network for AF Detection](https://github.com/Ranykh/Graph-Attention-Network-for-AF-Detection)**  
+-  **[Graph Attention Network for AF Detection](https://github.com/Ranykh/Graph-Attention-Network-for-AF-Detection)**  
   GAT-based model capturing spatial dependencies in ECG data for atrial fibrillation classification
 
-- 📈 **[Time Series Forecasting for Urban Traffic](https://github.com/Ranykh/Time_Series_Forecasting_for_Urban_Traffic)**  
+-  **[Time Series Forecasting for Urban Traffic](https://github.com/Ranykh/Time_Series_Forecasting_for_Urban_Traffic)**  
   Predictive modeling of traffic flow using SARIMA, Prophet, and LSTM with exogenous variables
 
-- 🧪 **[Scent2Words: Cross-Modal AI](https://github.com/Ranykh/Scent2Words-AI)**  
+-  **[Scent2Words: Cross-Modal AI](https://github.com/Ranykh/Scent2Words-AI)**  
   An AI system translating olfactory signals into descriptive language using multimodal modeling
 
-- 🧾 **[LinkedIn Data Analytics](https://github.com/Ranykh/Linkedin-Data-Analysis)**  
+-  **[LinkedIn Data Analytics](https://github.com/Ranykh/Linkedin-Data-Analysis)**  
   Analysis of user profiles and career trends to uncover skill-market patterns
 
-- 💡 **[Dynamic Attention LSTM in Persuasion Games](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**  
+-  **[Dynamic Attention LSTM in Persuasion Games](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**  
   NLP model optimizing predictive performance in human-bot linguistic games
 
-- 🧮 **[AI Basics](https://github.com/Ranykh/AI-Basics/tree/main)**  
+-  **[AI Basics](https://github.com/Ranykh/AI-Basics/tree/main)**  
   Agent-based simulations for AI-driven decision-making and optimal pathfinding
 
-- 🧾 **[NER with Word Embeddings](https://github.com/Ranykh/NLP-Entity-Tagging-with-Word-Embeddings)**  
+-  **[NER with Word Embeddings](https://github.com/Ranykh/NLP-Entity-Tagging-with-Word-Embeddings)**  
   Named Entity Recognition pipeline using deep learning and pre-trained embeddings
 
-- 🛍️ **[MAB for E-commerce](https://github.com/Ranykh/MAB_Electronic-Commerce-Models)**  
+-  **[MAB for E-commerce](https://github.com/Ranykh/MAB_Electronic-Commerce-Models)**  
   Multi-Armed Bandit simulations for optimizing product recommendation strategies
 
-- 🧠 **[Deep Learning Playground](https://github.com/Ranykh/Deep-Learning-Projects)**  
+-  **[Deep Learning Playground](https://github.com/Ranykh/Deep-Learning-Projects)**  
   Experimental repo for LLMs, CNNs, and transformer-based models
 
-- 🧠 **[GNN for Graph Classification](https://github.com/Ranykh/GNN_Final_Project)**  
+-  **[GNN for Graph Classification](https://github.com/Ranykh/GNN_Final_Project)**  
   Structured data classification using advanced Graph Neural Networks
 
-- 📊 **[Tableau Visual Dashboards](https://github.com/Ranykh/Tableau)**  
+-  **[Tableau Visual Dashboards](https://github.com/Ranykh/Tableau)**  
   Insightful dashboards for social and economic datasets
 
-- ⚙️ **[Algorithmic Portfolio](https://github.com/Ranykh/Data-Structures-and-Algorithms_programming-assignment)**  
+-  **[Algorithmic Portfolio](https://github.com/Ranykh/Data-Structures-and-Algorithms_programming-assignment)**  
   Solutions to DSA challenges with a focus on competitive coding
 
 ---
@@ -76,9 +76,9 @@
 
 ## 🏆 Achievements & Leadership
 
-- 🎓 **Research Presenter** – Biomedical ML research presented internationally (Switzerland)
-- 🤝 **LATET** – Group Manager at Israel's leading humanitarian org (3 years)
-- 🧑‍🏫 **DataCoach & Or Yarok** – Volunteer instructor & program coordinator
+-  **Research Presenter** – Biomedical ML research presented internationally (Switzerland)
+-  **LATET** – Group Manager at Israel's leading humanitarian org (3 years)
+-  **DataCoach & Or Yarok** – Volunteer instructor & program coordinator
 
 ---
 
