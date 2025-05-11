@@ -1,59 +1,105 @@
-# Rani Herbawi
-👋 Welcome to my GitHub profile!
-I am a Data Science and Engineering student at the Technion - Israel Institute of Technology, with a strong foundation in software development, big data engineering, machine learning and data analysis. My passion lies in leveraging data to build impactful and scalable solutions, and I’m currently seeking opportunities to further develop innovative AI-driven technologies.
+# Hi, I'm Rani Herbawi
 
-## 🛠️ Technologies & Skills
-- **Programming Languages**: Python, Java, SQL, C, C++, C#, R, MATLAB
-- **Big Data & Tools**: PySpark, TensorFlow, PyTorch, NumPy, Pandas, Scikit-Learn
-- **Visualization Tools**: Tableau, MATLAB
-- **Specialized Areas**:
-  - Machine Learning & Deep Learning
-  - Data Analysis
-  - Natural Language Processing (NLP)
-  - Real-Time Data Processing (e.g., Spark Streaming)
-  - Big Data & Cloud Computing (e.g., AWS)
-  - Algorithm Design & Optimization
+🎓 Data Science & Engineering student at the Technion – Israel Institute of Technology  
+💡 Passionate about solving real-world problems using software development, AI, machine learning, and big data systems  
+⚙️ Skilled in Python, Databricks, AWS, and building scalable ML pipelines  
+🚀 Currently looking for opportunities to build and analyse impactful solutions
 
-## 📂 Projects
-Here are some highlighted projects that showcase my expertise:
-- **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**: An AI-based tool for career recommendations via Linkedin.
-- **[LinkedIn Data Engineering/Analysis](https://github.com/Ranykh/Linkedin-Data-Analysis)**: Exploratory and statistical analysis of LinkedIn user data to uncover trends in career progression, skill demands, and networking patterns.
-- **[Graph Attention Network for AF Detection](https://github.com/Ranykh/Graph-Attention-Network-for-AF-Detection)**:A Research Utilizes Graph Attention Networks to model inter-lead ECG dependencies and regional variations for robust atrial fibrillation detection.
-- **[Big Data & Deep Learning Projects](https://github.com/Ranykh/Deep-Learning-Projects)**: A collection of various deep learning implementations.
-- **[Graph Neural Network Project](https://github.com/Ranykh/GNN_Final_Project)**: Graph classification using advanced GNN architectures.
-- **[Dynamic Attention LSTM Predictive Model](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**: Research project in NLP improving prediction in human-bot interactions.
-- **[AI Basics](https://github.com/Ranykh/AI-Basics/tree/main)**: A project exploring AI-driven decision-making in a grid-based environment using optimal pathfinding and agent-based simulations.
-- **[NLP Entity Tagging with Word Embeddings](https://github.com/Ranykh/NLP-Entity-Tagging-with-Word-Embeddings)**: A machine learning pipeline for Named Entity Recognition (NER) using word embeddings and deep learning techniques.
-- **[MAB_Electronic-Commerce-Models](https://github.com/Ranykh/MAB_Electronic-Commerce-Models)**: Implements Multi-Armed Bandit simulation for E-commerce use cases.
-- Designing distributed databases and implementing the
-design using spark
+---
 
-## 💼 Professional Experience
-- **PhenoAI (Data Science Intern)**: Developed predictive ML models for analyzing ECG data using AWS and Python-based big data processing. Collaborated with researchers to refine data insights.
-- **VISTA Lab (Research Assistant)**: Benchmarked algorithms and improved model accuracy for instance segmentation tasks.
-- **Teaching Assistant (Technion)**: Tutored Discrete Mathematics, improving academic outcomes for students.
+## 🔧 Technologies & Skills
 
-## 🌟 Achievements
-- **Research Presentation**: Biomedical Engineering research presented in Switzerland.
-- **Leadership**: Group Manager in LATET - Israeli Humanitarian Aid.
+- **Languages**: Python, Java, SQL, C/C++, R, MATLAB, Bash
+- **ML & DL**: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Prophet
+- **Big Data & Cloud**: Spark, Databricks, Hadoop, AWS (EC2, S3), Docker
+- **NLP & CV**: BERT, GNNs, LSTMs, CNNs, OpenCV, spaCy
+- **Visualization & Tools**: Tableau, Power BI, Excel, Git, Linux
+- **Other**: Algorithm Design, Statistical Modeling, Time Series Forecasting
 
-## 📬 Let's Connect!
-I'm always open to networking, collaborations, and exciting projects:
-- **Email**: [ranykhirbawi@gmail.com](mailto:ranykhirbawi@gmail.com)
-- **LinkedIn**: [Rani H.](https://www.linkedin.com/in/rani-h-51a5011a9)
-- **GitHub**: [Ranykh](https://github.com/Ranykh)
+---
 
-<!--
-**Ranykh/Ranykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Featured Projects
 
-Here are some ideas to get you started:
+- 🔮 **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**  
+  AI-powered recommendation engine using Databricks & NLP for LinkedIn career clustering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **[Graph Attention Network for AF Detection](https://github.com/Ranykh/Graph-Attention-Network-for-AF-Detection)**  
+  GAT-based model capturing spatial dependencies in ECG data for atrial fibrillation classification
+
+- 📈 **[Time Series Forecasting for Urban Traffic](https://github.com/Ranykh/Time_Series_Forecasting_for_Urban_Traffic)**  
+  Predictive modeling of traffic flow using SARIMA, Prophet, and LSTM with exogenous variables
+
+- 🧪 **[Scent2Words: Cross-Modal AI](https://github.com/Ranykh/Scent2Words-AI)**  
+  An AI system translating olfactory signals into descriptive language using multimodal modeling
+
+- 🧾 **[LinkedIn Data Analytics](https://github.com/Ranykh/Linkedin-Data-Analysis)**  
+  Analysis of user profiles and career trends to uncover skill-market patterns
+
+- 💡 **[Dynamic Attention LSTM in Persuasion Games](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**  
+  NLP model optimizing predictive performance in human-bot linguistic games
+
+- 🧮 **[AI Basics](https://github.com/Ranykh/AI-Basics/tree/main)**  
+  Agent-based simulations for AI-driven decision-making and optimal pathfinding
+
+- 🧾 **[NER with Word Embeddings](https://github.com/Ranykh/NLP-Entity-Tagging-with-Word-Embeddings)**  
+  Named Entity Recognition pipeline using deep learning and pre-trained embeddings
+
+- 🛍️ **[MAB for E-commerce](https://github.com/Ranykh/MAB_Electronic-Commerce-Models)**  
+  Multi-Armed Bandit simulations for optimizing product recommendation strategies
+
+- 🧠 **[Deep Learning Playground](https://github.com/Ranykh/Deep-Learning-Projects)**  
+  Experimental repo for LLMs, CNNs, and transformer-based models
+
+- 🧠 **[GNN for Graph Classification](https://github.com/Ranykh/GNN_Final_Project)**  
+  Structured data classification using advanced Graph Neural Networks
+
+- 📊 **[Tableau Visual Dashboards](https://github.com/Ranykh/Tableau)**  
+  Insightful dashboards for social and economic datasets
+
+- ⚙️ **[Algorithmic Portfolio](https://github.com/Ranykh/Data-Structures-and-Algorithms_programming-assignment)**  
+  Solutions to DSA challenges with a focus on competitive coding
+
+---
+
+## 💼 Experience
+
+**NLP Data Scientist** – *Tel Aviv University* (2024–Present)  
+- Fine-tuned BERT for legal Hebrew corpora; deployed deep learning models at scale  
+
+**Data Scientist Intern** – *PhenoAI* (2023–2024)  
+- Built ECG anomaly detection pipelines on AWS; integrated statistical & ML models  
+
+**Course Tutor** – *Technion Discrete Mathematics* (2023–2025)  
+- Mentored students in logic, proof techniques, and combinatorics
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🎓 **Research Presenter** – Biomedical ML research presented internationally (Switzerland)
+- 🤝 **LATET** – Group Manager at Israel's leading humanitarian org (3 years)
+- 🧑‍🏫 **DataCoach & Or Yarok** – Volunteer instructor & program coordinator
+
+---
+
+## 📜 Education
+
+**B.Sc. Data Science and Engineering**, Technion – Israel Institute of Technology  
+- 📚 Coursework: Machine Learning (96), Deep Learning (97), Algorithms (85), Big Data (88)  
+
+- 📜 Certifications:  
+  - *Python for Data Science & AI* – IBM  
+  - *NLP with Python for ML*
+
+---
+
+## 🌐 Let's Connect
+
+- 📧 **Email**: [ranykhirbawi@gmail.com](mailto:ranykhirbawi@gmail.com)  
+- 💼 **LinkedIn**: [Rani H.](https://www.linkedin.com/in/rani-h-51a5011a9)  
+- 💻 **GitHub**: [github.com/Ranykh](https://github.com/Ranykh)
+
+---
+
+> *"I code with curiosity, analyze with precision, and build with impact."*
+
