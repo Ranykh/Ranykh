@@ -17,16 +17,22 @@ Skilled in Python, Databricks, AWS, and building scalable ML pipelines
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 -  **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**  
   AI-powered recommendation engine using Databricks & NLP for LinkedIn career clustering
 
--  **[Graph Attention Network for AF Detection](https://github.com/Ranykh/Graph-Attention-Network-for-AF-Detection)**  
-  GAT-based model capturing spatial dependencies in ECG data for atrial fibrillation classification
+-  **[Lunar AIccord — Autonomous RAG-Powered Fragrance Design Agent](https://github.com/Ranykh/lunar-aiccord-agent)**  
+  An autonomous LangGraph agent that turns a user’s brief into an IFRA-aware fragrance formula—using OpenAI, RAG over Qdrant note/material databases, and strict prompt-engineered proportioning—then evaluates and brands the result end-to-end.
+
+-  **[SurgPose Computer Vision: Synthetic-to-Real Surgical Tool Tracking](https://github.com/Ranykh/computer-vision-SurgPose-sim2real)**  
+  Label-efficient surgical tool pose estimation with BlenderProc synthetic data, YOLOv8-Pose training, and unsupervised sim-to-real adaptation on endoscopic videos.
 
 -  **[Time Series Forecasting for Urban Traffic](https://github.com/Ranykh/Time_Series_Forecasting_for_Urban_Traffic)**  
   Predictive modeling of traffic flow using SARIMA, Prophet, and LSTM with exogenous variables
+
+-  **[Graph Attention Network for AF Detection](https://github.com/Ranykh/Graph-Attention-Network-for-AF-Detection)**  
+  GAT-based model capturing spatial dependencies in ECG data for atrial fibrillation classification
 
 -  **[Scent2Words: Cross-Modal AI](https://github.com/Ranykh/Scent2Words-AI)**  
   An AI system translating olfactory signals into descriptive language using multimodal modeling
