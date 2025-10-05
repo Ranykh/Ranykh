@@ -6,6 +6,9 @@
   Experienced in <b>Python</b>, <b>C/C++</b>, and <b>Java</b>; also comfortable with SQL, Bash, and MATLAB.
 </p>
 
+<p align="center">
+  <a href="mailto:ranykhirbawi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ranykhirbawi%40gmail.com-informational?logo=gmail"></a>
+</p>
 ---
 
 ### What I’m good at
@@ -14,14 +17,6 @@
 - **Large-scale data**: Spark & Databricks, AWS (S3/EC2), efficient Data Analysis and monitoring.
 - **Software engineering**: Design & build production-grade services and libraries in **Python, C/C++ and Java**; REST API development (FastAPI/Flask), SQL/NoSQL schema design, clean architecture & design patterns, unit/integration testing (pytest/JUnit), packaging & versioning, **Docker**, **Git/GitHub Actions**, Linux, logging/metrics, and performance-minded data structures & algorithms.
 - **Applied research**: CV (pose/segmentation), NLP (RAG, NER), Time Series (forecasting), Graph ML (GNN/GAT).
-
----
-
-<p align="center">
-  <a href="mailto:ranykhirbawi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ranykhirbawi%40gmail.com-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rani-h-51a5011a9"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rani%20Herbawi-blue?logo=linkedin"></a>
-  <a href="https://github.com/Ranykh?tab=repositories"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Ranykh?style=social"></a>
-</p>
 
 ---
 
@@ -126,8 +121,11 @@ and Business Analytics.
 ## 🌐 Let's Connect
 
 - 📧 **Email**: [ranykhirbawi@gmail.com](mailto:ranykhirbawi@gmail.com)  
-- 💼 **LinkedIn**: [Rani H.](https://www.linkedin.com/in/rani-h-51a5011a9)  
 - 💻 **GitHub**: [github.com/Ranykh](https://github.com/Ranykh)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rani-h-51a5011a9"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rani%20Herbawi-blue?logo=linkedin"></a>
+</p>
 
 ---
 
