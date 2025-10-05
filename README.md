@@ -16,17 +16,21 @@ Skilled in Python, Databricks, AWS, and building scalable ML pipelines
 - **Other**: Algorithm Design, Statistical Modeling, Time Series Forecasting
 
 ---
-
-## Featured Projects
-
--  **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**  
-  AI-powered recommendation engine using Databricks & NLP for LinkedIn career clustering
+## Personal Project
 
 -  **[Lunar AIccord — Autonomous RAG-Powered Fragrance Design Agent](https://github.com/Ranykh/lunar-aiccord-agent)**  
   An autonomous LangGraph agent that turns a user’s brief into an IFRA-aware fragrance formula—using OpenAI, RAG over Qdrant note/material databases, and strict prompt-engineered proportioning—then evaluates and brands the result end-to-end.
 
+---
+
+## Featured Projects
+
+
 -  **[SurgPose Computer Vision: Synthetic-to-Real Surgical Tool Tracking](https://github.com/Ranykh/computer-vision-SurgPose-sim2real)**  
   Label-efficient surgical tool pose estimation with BlenderProc synthetic data, YOLOv8-Pose training, and unsupervised sim-to-real adaptation on endoscopic videos.
+
+-  **[Career Pathing Solution with AI](https://github.com/Ranykh/Career_path_with_AI_project)**  
+  AI-powered recommendation engine using Databricks & NLP for LinkedIn career clustering
 
 -  **[Time Series Forecasting for Urban Traffic](https://github.com/Ranykh/Time_Series_Forecasting_for_Urban_Traffic)**  
   Predictive modeling of traffic flow using SARIMA, Prophet, and LSTM with exogenous variables
@@ -34,17 +38,18 @@ Skilled in Python, Databricks, AWS, and building scalable ML pipelines
 -  **[Graph Attention Network for AF Detection](https://github.com/Ranykh/Graph-Attention-Network-for-AF-Detection)**  
   GAT-based model capturing spatial dependencies in ECG data for atrial fibrillation classification
 
--  **[Scent2Words: Cross-Modal AI](https://github.com/Ranykh/Scent2Words-AI)**  
-  An AI system translating olfactory signals into descriptive language using multimodal modeling
-
--  **[LinkedIn Data Analytics](https://github.com/Ranykh/Linkedin-Data-Analysis)**  
-  Analysis of user profiles and career trends to uncover skill-market patterns
 
 -  **[Dynamic Attention LSTM in Persuasion Games](https://github.com/Ranykh/Dynamic-Attention-based-LSTM-Predictive-Model-in-Language-based-Persuasion-Games)**  
   NLP model optimizing predictive performance in human-bot linguistic games
 
+-  **[LinkedIn Data Analytics](https://github.com/Ranykh/Linkedin-Data-Analysis)**  
+  Analysis of user profiles and career trends to uncover skill-market patterns
+
 -  **[AI Basics](https://github.com/Ranykh/AI-Basics/tree/main)**  
   Agent-based simulations for AI-driven decision-making and optimal pathfinding
+
+-  **[GNN for Graph Classification](https://github.com/Ranykh/GNN_Final_Project)**  
+  Structured data classification using advanced Graph Neural Networks
 
 -  **[NER with Word Embeddings](https://github.com/Ranykh/NLP-Entity-Tagging-with-Word-Embeddings)**  
   Named Entity Recognition pipeline using deep learning and pre-trained embeddings
@@ -55,14 +60,14 @@ Skilled in Python, Databricks, AWS, and building scalable ML pipelines
 -  **[Deep Learning Playground](https://github.com/Ranykh/Deep-Learning-Projects)**  
   Experimental repo for LLMs, CNNs, and transformer-based models
 
--  **[GNN for Graph Classification](https://github.com/Ranykh/GNN_Final_Project)**  
-  Structured data classification using advanced Graph Neural Networks
+-  **[Algorithmic Portfolio](https://github.com/Ranykh/Data-Structures-and-Algorithms_programming-assignment)**  
+  Solutions to DSA challenges with a focus on competitive coding
 
 -  **[Tableau Visual Dashboards](https://github.com/Ranykh/Tableau)**  
   Insightful dashboards for social and economic datasets
 
--  **[Algorithmic Portfolio](https://github.com/Ranykh/Data-Structures-and-Algorithms_programming-assignment)**  
-  Solutions to DSA challenges with a focus on competitive coding
+-  **[Scent2Words: Cross-Modal AI](https://github.com/Ranykh/Scent2Words-AI)**  
+  An AI system translating olfactory signals into descriptive language using multimodal modeling
 
 ---
 
