@@ -1,9 +1,9 @@
 <h1 align="center">Rani Herbawi</h1>
 <p align="center">
   Data Science & Engineering Student @ Technion<br/>
-  I design, build, and ship production-ready <b>software</b> and end-to-end <b>ML/data systems</b>—from algorithms and APIs to cloud deployment.
+  I design, build, and ship production-ready <b>software</b> and end-to-end <b>ML/data systems</b>—from algorithms and APIs to cloud deployment, In Addition i have experience in Data Analysis methods.
   <br/>
-  Experienced in <b>Python</b>, <b>C/C++</b>, and <b>Java</b>; also comfortable with SQL, Bash, and MATLAB.
+  Experienced in <b>Python</b>, <b>C/C++</b>, <b>Java</b> and <b>Tableau</b>; also comfortable with SQL, Bash, and MATLAB.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ### What I’m good at
 
 - **Building ML products**: data ingestion → feature/store → training → evaluation → packaging → CI/CD → cloud deploy.
-- **Large-scale data**: Spark & Databricks, AWS (S3/EC2), efficient Data Analysis and monitoring.
+- **Large-scale data**: Spark & Databricks, AWS (S3/EC2), efficient Data Analysis and monitoring using Tableau.
 - **Software engineering**: Design & build production-grade services and libraries in **Python, C/C++ and Java**; REST API development (FastAPI/Flask), SQL/NoSQL schema design, clean architecture & design patterns, unit/integration testing (pytest/JUnit), packaging & versioning, **Docker**, **Git/GitHub Actions**, Linux, logging/metrics, and performance-minded data structures & algorithms.
 - **Applied research**: CV (pose/segmentation), NLP (RAG, NER), Time Series (forecasting), Graph ML (GNN/GAT).
 
