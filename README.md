@@ -1,6 +1,6 @@
 <h1 align="center">Rani Herbawi</h1>
 <h2 align="center" style="margin-top: 0.25rem;">
-  Data Science Enthusiast @ B.sc Data Science and Engineering - <b>Technion</b>
+  Data Science Enthusiast @ B.Sc Data Science and Engineering - <b>Technion</b>
 </h2>
 <p align="center">
   I design, build, and ship production-ready <b>software</b> and end-to-end <b>ML/data systems</b>—from algorithms and APIs to cloud deployment, In Addition i have experience in Data Analysis methods.
