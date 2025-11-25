@@ -1,6 +1,6 @@
 <h1 align="center">Rani Herbawi</h1>
 <h2 align="center" style="margin-top: 0.25rem;">
-  Data Science Enthusiast @ B.Sc Data Science and Engineering - <b>Technion</b>
+  M.Sc. Student, Electrical Engineering (Deep Learning & CV) | Technion B.Sc. in Data Science & Engineering | Algorithms, ML & Software
 </h2>
 <p align="center">
   I design, build, and ship production-ready <b>software</b> and end-to-end <b>ML/data systems</b>—from algorithms and APIs to cloud deployment, In Addition i have experience in Data Analysis methods.
@@ -88,9 +88,16 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 ## Experience
 
-**Software Research Assistant** – *AI and Bussiness Analytics Lab - TAU* (2024–Present)  
+** Research Assistant** – *AI and Bussiness Analytics Lab - TAU* (2024–Present)  
 - Developed Python modules and pipelines for
 evaluating models on Hebrew datasets. while
 working under Prof. Yahav at the Coller Lab for AI
@@ -115,6 +122,7 @@ and Business Analytics.
 
 ## Education
 
+**M.Sc. Electrical Engineering & Data Science**, BIU  
 **B.Sc. Data Science and Engineering**, Technion – Israel Institute of Technology  
 - 📚 Coursework: Machine Learning (96), Deep Learning (97), Algorithms (85), Big Data (88)  
 
