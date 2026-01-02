@@ -1,6 +1,6 @@
 <h1 align="center">Rani Herbawi</h1>
 <h2 align="center" style="margin-top: 0.25rem;">
-  M.Sc. Track, Electrical Engineering (Deep Learning & CV) | Technion B.Sc. in Data Science & Engineering | Algorithms, ML & Software
+  M.Sc. Track, Electrical Engineering (Deep Learning & ML) | Technion B.Sc. in Data Science & Engineering | Algorithms, ML & Software
 </h2>
 <p align="center">
   I design, build, and ship production-ready <b>software</b> and end-to-end <b>ML/data systems</b>—from algorithms and APIs to cloud deployment, In Addition i have experience in Data Analysis methods.
