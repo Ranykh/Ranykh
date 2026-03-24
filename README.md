@@ -3,7 +3,7 @@
   M.Sc. Student, Electrical Engineering (Deep Learning & ML) | Technion B.Sc. in Data Science & Engineering | Algorithms, ML & Software
 </h2>
 <p align="center">
-  I design, build, and ship production-ready <b>software</b> and end-to-end <b>ML/data systems</b>—from algorithms and APIs to cloud deployment, In Addition i have experience in Data Analysis methods.
+  I design, build, and ship production-ready <b>software</b> and end-to-end <b>ML/data systems</b>—from algorithms and APIs to cloud deployment.
   <br/>
   Experienced in <b>Python</b>, <b>C/C++</b>, <b>Java</b> and <b>Tableau</b>; also comfortable with SQL, Bash, and MATLAB.
 </p>
@@ -16,10 +16,9 @@
 
 ### What I’m good at
 
-- **Building ML products**: data ingestion → feature/store → training → evaluation → packaging → CI/CD → cloud deploy.
 - **Large-scale data**: Spark & Databricks, AWS (S3/EC2), efficient Data Analysis and monitoring using Tableau.
-- **Software engineering**: Design & build production-grade services and libraries in **Python, C/C++ and Java**; REST API development (FastAPI/Flask), SQL/NoSQL schema design, clean architecture & design patterns, unit/integration testing (pytest/JUnit), packaging & versioning, **Docker**, **Git/GitHub Actions**, Linux, logging/metrics, and performance-minded data structures & algorithms.
-- **Applied research**: CV (pose/segmentation), NLP (RAG, NER), Time Series (forecasting), Graph ML (GNN/GAT).
+- **Software engineering**: Design & build production-grade services and libraries in **Python, C/C++ and Java**; REST API development (FastAPI/Flask), SQL/NoSQL schema design, clean architecture & design patterns, unit/integration testing, packaging & versioning, **Docker**, **Git/GitHub Actions**, Linux, logging/metrics, and performance-minded data structures & algorithms.
+- **Applied research**: Deep Leanring and AI Agentsת NLP (RAG, NER), Time Series (forecasting).
 
 ---
 
@@ -28,7 +27,7 @@
 
 **Languages:** Python, Java, C/C++, SQL, MATLAB, Bash  
 **ML/DL:** PyTorch, TensorFlow, scikit-learn, XGBoost, Transformers, GNNs, LSTMs, YOLO, OpenCV, spaCy  
-**Data & Cloud:** Spark, Databricks, Hadoop, AWS (EC2, S3), Docker  
+**Data & Cloud:** Spark, Databricks, Hadoop, AWS, Docker  
 **MLOps:** experiment tracking, data/feature pipelines, evaluation tooling, packaging, CI/CD, REST APIs  
 **Other:** Algorithm design, statistical modeling, time-series forecasting, Linux, Git
 
