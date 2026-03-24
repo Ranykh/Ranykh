@@ -1,12 +1,8 @@
 <h1 align="center">Rani Herbawi</h1>
 <h2 align="center" style="margin-top: 0.25rem;">
-  M.Sc. Student, Electrical Engineering (Deep Learning & ML) | Technion B.Sc. in Data Science & Engineering | Algorithms, ML & Software
+  M.Sc. Student, Electrical Engineering (Deep Learning & ML) | Technion B.Sc. in Data Science & Engineering | Software Engineering & ML
 </h2>
-<p align="center">
-  I design, build, and ship production-ready <b>software</b> and end-to-end <b>ML/data systems</b>—from algorithms and APIs to cloud deployment.
-  <br/>
-  Experienced in <b>Python</b>, <b>C/C++</b>, <b>Java</b> and <b>Tableau</b>; also comfortable with SQL, Bash, and MATLAB.
-</p>
+
 
 <p align="center">
   <a href="mailto:ranykhirbawi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ranykhirbawi%40gmail.com-informational?logo=gmail"></a>
