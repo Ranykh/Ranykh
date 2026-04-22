@@ -14,7 +14,7 @@
 
 - **Large-scale data**: Spark & Databricks, AWS (S3/EC2), efficient Data Analysis and monitoring using Tableau.
 - **Software engineering**: Design & build production-grade services and libraries in **Python, C/C++ and Java**; REST API development (FastAPI/Flask), SQL/NoSQL schema design, clean architecture & design patterns, unit/integration testing, packaging & versioning, **Docker**, **Git/GitHub Actions**, Linux, logging/metrics, and performance-minded data structures & algorithms.
-- **Applied research**: Deep Leanring and AI Agentsת NLP (RAG, NER), Time Series (forecasting).
+- **Applied research**: Deep Leanring and AI Agents, NLP (RAG, NER), Time Series (forecasting).
 
 ---
 
