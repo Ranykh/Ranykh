@@ -46,6 +46,8 @@
 
 ## Featured Projects
 
+-  **[IVF with Cross-Cluster Exploration for ANN Search - Technion Final Project (Research)](https://github.com/Ranykh/ivf-ce-ann)**  
+ 
 
 -  **[SurgPose Computer Vision: Synthetic-to-Real Surgical Tool Tracking](https://github.com/Ranykh/computer-vision-SurgPose-sim2real)**  
   Label-efficient surgical tool pose estimation with BlenderProc synthetic data, YOLOv8-Pose training, and unsupervised sim-to-real adaptation on endoscopic videos.
